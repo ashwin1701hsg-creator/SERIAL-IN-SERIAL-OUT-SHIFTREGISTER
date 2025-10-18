@@ -45,15 +45,18 @@ endmodule
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:
+Developed by:ASHWIN H
+RegisterNumber:25003420
 
 */
 
 **RTL LOGIC FOR SISO Shift Register**
-![WhatsApp Image 2025-10-18 at 08 50 50_e6d3d6fb](https://github.com/user-attachments/assets/2491ada7-bfd9-4edd-bfaf-de284ed5e2a3)
+<img width="1481" height="785" alt="image" src="https://github.com/user-attachments/assets/b642f2c4-6cac-4f90-bc04-b7f3d153e3b2" />
+
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-![WhatsApp Image 2025-10-18 at 08 50 50_e6d3d6fb](https://github.com/user-attachments/assets/5b191396-d04b-451f-b3ca-ac5a9df979ab)
+<img width="1476" height="747" alt="image" src="https://github.com/user-attachments/assets/5a710782-e41f-4507-b7be-60b36ac0516b" />
+
 
 **RESULTS**
 Thus the truth table of logic gates in Quartus II using Verilog programming is studied
